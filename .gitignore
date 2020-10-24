@@ -1,0 +1,5 @@
+.vscode/
+fe/node_modules/
+api/node_modules/
+functions/node_modules/
+node_modules/
